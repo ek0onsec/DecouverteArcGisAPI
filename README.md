@@ -1,6 +1,6 @@
 # Test ArcGIS API
 
-Ce repo est un test d'utilisation de l'API de ArcGIS
+Ce repo est un test d'utilisation de l'API de ArcGIS https://developers.arcgis.com/
 
 ## Utilisation
 
